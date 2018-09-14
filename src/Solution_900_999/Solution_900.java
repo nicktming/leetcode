@@ -1,9 +1,31 @@
 package Solution_900_999;
 
-import java.util.Map;
-import java.util.TreeMap;
-
 public class Solution_900 {
+
+    class RLEIterator {
+
+        int[] A;
+        int i = 0;
+        int q = 0;
+
+        public RLEIterator(int[] A) {
+            this.A = A;
+        }
+
+        public int next(int n) {
+            while (i < A.length) {
+                if (q + n > A[i]) {
+                    n -= A[i] - q;
+                    q = 0;
+                    i += 2;
+                } else {
+                    q += n;
+                    return A[i + 1];
+                }
+            }
+            return -1;
+        }
+    }
 
     /**
      *  version 2
@@ -11,6 +33,7 @@ public class Solution_900 {
      *  beats: 91.67%
      */
 
+    /*
     class RLEIterator {
 
         long[][] presum;
@@ -37,6 +60,7 @@ public class Solution_900 {
             return -1;
         }
     }
+    */
 
     /**
      *  version1.
