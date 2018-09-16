@@ -1,5 +1,5 @@
-deadline 9.16
-1. 846
+deadline 9.16               finish
+1. 846                      done
 
 deadline 9.23
 1. 835
