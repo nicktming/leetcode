@@ -1,8 +1,10 @@
 # Leetcode Solution
 
 ### 2018.08.26 - 2018.09.23
-1. 701
-2. 709
+count | number | name  | difficult                               
+:-----:|:----:| ------ |:-----:                        
+1 | 701 |    |  Medium        
+2 | 709 |     | Medium   
 3. 807
 4. 835
 5. 841
