@@ -28,8 +28,8 @@ count | number | title  | difficult
 count | number | title  | difficult   | finish-time   | comment                         
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
 1 | 911 |   Online Election                             |  Medium  | 2018-09-24     |
-2 | 916 |   Word Subsets                                |  Medium  | 2018-10-02     | DELAY 
-3 | 915 |   Partition Array into Disjoint Intervals     |  Medium  | 2018-10-02     | DELAY 
+2 | 916 |   Word Subsets                                |  Medium  | 2018-10-02     | DELAY (National Day)
+3 | 915 |   Partition Array into Disjoint Intervals     |  Medium  | 2018-10-02     | DELAY (National Day)
 
 # REVIEW LIST
 
