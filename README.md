@@ -31,6 +31,7 @@ count | number | title  | difficult   | finish-time   | comment
 2 | 916 |   Word Subsets                                |  Medium  | 2018-10-02     | DELAY (National Day)
 3 | 915 |   Partition Array into Disjoint Intervals     |  Medium  | 2018-10-02     | DELAY (National Day)
 4 | 641 |   Design Circular Deque                       |  Medium  | 2018-10-02     | DELAY (National Day)
+5 | 622 |   Design Circular Queue                       |  Medium  | 2018-10-02     | DELAY (National Day)
 
 # REVIEW LIST
 
