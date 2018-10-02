@@ -25,20 +25,23 @@ count | number | title  | difficult
 20 | 904 |  Fruit Into Baskets    | Medium
 
 ### 2018.09.24 - 2018.09.30
-count | number | title  | difficult   | finish-time                            
-:-----:|:----:| ------ |:-----:   |:-----:                        
-1 | 911 |   Online Election |  Medium  | 2018-09-24
+count | number | title  | difficult   | finish-time   | comment                         
+:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
+1 | 911 |   Online Election                             |  Medium  | 2018-09-24     |
+2 | 916 |   Word Subsets                                |  Medium  | 2018-10-02     | DELAY 
+3 | 915 |   Partition Array into Disjoint Intervals     |  Medium  | 2018-10-02     | DELAY 
 
 # REVIEW LIST
 
 count | number | title  | difficult  |  deadline | status  | finish-time                             
 :-----:|:----:| ------ |:-----:| :-----:| :-----:|  :-----:| 
-1 |  846 |  Hand of Straights                   | Medium    | 2018-09-16 | **DONE** |   **2018-09-16**
-2 |  835 |   Image Overlap                      | Medium    | 2018-09-23 | **DONE** |   **2018-09-23**
-3 |  870 |  Advantage Shuffle                   | Medium    | 2018-09-23 | **DONE** |   **2018-09-23**
-4 |  900 |  RLE Iterator                        | Medium    | 2018-09-30 | TODO |
-5 |  901 |  Online Stock Span                   | Medium    | 2018-09-30 | TODO |
-6 |  807 |   Max Increase to Keep City Skyline  | Medium    | 2018-10-07 | TODO |
-7 |  894 |  All Possible Full Binary Trees      | Medium    | 2018-10-07 | TODO |
-8 |  863 | All Nodes Distance K in Binary Tree  | Medium    | 2018-10-07 | TODO |
+1 |  846 |  Hand of Straights                       | Medium    | 2018-09-16 | **DONE** |   **2018-09-16**
+2 |  835 |   Image Overlap                          | Medium    | 2018-09-23 | **DONE** |   **2018-09-23**
+3 |  870 |  Advantage Shuffle                       | Medium    | 2018-09-23 | **DONE** |   **2018-09-23**
+4 |  900 |  RLE Iterator                            | Medium    | 2018-09-30 | TODO |
+5 |  901 |  Online Stock Span                       | Medium    | 2018-09-30 | TODO |
+6 |  807 |   Max Increase to Keep City Skyline      | Medium    | 2018-10-07 | TODO |
+7 |  894 |  All Possible Full Binary Trees          | Medium    | 2018-10-07 | TODO |
+8 |  863 | All Nodes Distance K in Binary Tree      | Medium    | 2018-10-07 | TODO |
+9 |  915 | Partition Array into Disjoint Intervals  | Medium    | 2018-10-14 | TODO |
 
