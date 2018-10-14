@@ -12,11 +12,7 @@ public class Solution_921 {
         int ans = 0;
         int count = 0;
         for (char ch : S.toCharArray()) {
-            if (ch == '(') {
-                count ++;
-            } else {
-                count --;
-            }
+            count = ch == '(' ? count + 1 : count - 1;
             if (count < 0) {
                 ans -= count;
                 count = 0;

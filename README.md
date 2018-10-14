@@ -42,7 +42,7 @@ count | number | title  | difficult   | finish-time   | comment
 1 | 922 |   Sort Array By Parity II                     |  Easy    | 2018-10-14     |
 2 | 921 |   Minimum Add to Make Parentheses Valid       |  Medium  | 2018-10-14     | 
 3 | 923 |   3Sum With Multiplicity                      |  Medium  | 2018-10-14     |
-
+4 | 919 |   Complete Binary Tree Inserter               |  Medium  | 2018-10-14     |
 
 # REVIEW LIST
 
