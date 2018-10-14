@@ -44,6 +44,7 @@ count | number | title  | difficult   | finish-time   | comment
 3 | 923 |   3Sum With Multiplicity                      |  Medium  | 2018-10-14     |
 4 | 919 |   Complete Binary Tree Inserter               |  Medium  | 2018-10-14     |
 5 | 430 |   Flatten a Multilevel Doubly Linked List     |  Medium  | 2018-10-14     |
+6 | 540 |   Single Element in a Sorted Array            |  Medium  | 2018-10-14     |
 
 # REVIEW LIST
 
