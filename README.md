@@ -36,7 +36,7 @@ count | number | title  | difficult   | finish-time   | comment
 ### 2018.10.01 - 2018.10.07
 
 
-### 2018.10.07 - 2018.10.14
+### 2018.10.08 - 2018.10.14
 count | number | title  | difficult   | finish-time   | comment                         
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
 1 | 922 |   Sort Array By Parity II                     |  Easy    | 2018-10-14     |
@@ -45,6 +45,12 @@ count | number | title  | difficult   | finish-time   | comment
 4 | 919 |   Complete Binary Tree Inserter               |  Medium  | 2018-10-14     |
 5 | 430 |   Flatten a Multilevel Doubly Linked List     |  Medium  | 2018-10-14     |
 6 | 540 |   Single Element in a Sorted Array            |  Medium  | 2018-10-14     |
+
+### 2018.10.15 - 2018.10.21
+count | number | title  | difficult   | finish-time   | comment                         
+:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
+1 | 869 |   Reordered Power of 2                        |  Medium  | 2018-10-17     |
+
 
 # REVIEW LIST
 
@@ -60,3 +66,4 @@ count | number | title  | difficult  |  deadline | status  | finish-time     | c
 8 |  863 | All Nodes Distance K in Binary Tree      | Medium    | 2018-10-07 | TODO     |
 9 |  915 | Partition Array into Disjoint Intervals  | Medium    | 2018-10-14 | TODO     |
 10|  923 | 3Sum With Multiplicity                   | Medium    | 2018-10-21 | TODO     |
+11|  869 |   Reordered Power of 2                   |  Medium   | 2018-10-24 | TODO     |
