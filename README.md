@@ -50,6 +50,7 @@ count | number | title  | difficult   | finish-time   | comment
 count | number | title  | difficult   | finish-time   | comment                         
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
 1 | 869 |   Reordered Power of 2                        |  Medium  | 2018-10-17     |
+1 | 849 |   Maximize Distance to Closest Person         |  Easy    | 2018-10-17     |
 
 
 # REVIEW LIST
