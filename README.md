@@ -54,6 +54,7 @@ count | number | title  | difficult   | finish-time   | comment
 3 | 855 |   Exam Room                                   |  Medium  | 2018-10-18     |  NEED OPTIMIZATION
 4 | 926 |   Flip String to Monotone Increasing          |  Medium  | 2018-10-21     | 
 5 | 654 |   Maximum Binary Tree                         |  Medium  | 2018-10-21     | 
+6 | 814 |   Binary Tree Pruning                         |  Medium  | 2018-10-21     | 
 
 
 # REVIEW LIST
