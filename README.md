@@ -56,6 +56,11 @@ count | number | title  | difficult   | finish-time   | comment
 5 | 654 |   Maximum Binary Tree                         |  Medium  | 2018-10-21     | 
 6 | 814 |   Binary Tree Pruning                         |  Medium  | 2018-10-21     | 
 
+### 2018.10.22 - 2018.10.28
+count | number | title  | difficult   | finish-time   | comment                         
+:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
+1 | 931 |   Minimum Falling Path Sum                    |  Medium  | 2018-10-28     |
+
 
 # REVIEW LIST
 
