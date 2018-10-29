@@ -60,7 +60,7 @@ count | number | title  | difficult   | finish-time   | comment
 count | number | title  | difficult   | finish-time   | comment                         
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
 1 | 931 |   Minimum Falling Path Sum                    |  Medium  | 2018-10-28     |
-2 | 930 |   Binary Subarrays With Sum                   |  Medium  | 2018-10-30     |
+2 | 930 |   Binary Subarrays With Sum                   |  Medium  | 2018-10-30     | subarray (think about presum)
 
 
 # REVIEW LIST
