@@ -65,6 +65,12 @@ count | number | title  | difficult   | finish-time   | comment
 4 | 515 |   Find Largest Value in Each Tree Row         |  Medium  | 2018-10-30     |
 5 | 94  |   Binary Tree Inorder Traversal               |  Medium  | 2018-10-30     |
 
+### 2018.10.29 - 2018.11.04
+count | number | title  | difficult   | finish-time   | comment                         
+:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
+1 | 918 |   Maximum Sum Circular Subarray               |  Medium  | 2018-10-30     |
+
+
 # REVIEW LIST
 
 count | number | title  | difficult  |  deadline | status  | finish-time     | comment                        
@@ -81,6 +87,7 @@ count | number | title  | difficult  |  deadline | status  | finish-time     | c
 10|  923 | 3Sum With Multiplicity                   | Medium    | 2018-10-21 | TODO     |
 11|  869 |   Reordered Power of 2                   | Medium    | 2018-10-24 | TODO     |
 12|  926 |   Flip String to Monotone Increasing     | Medium    | 2018-10-28 | TODO     |
-13| 930  |   Binary Subarrays With Sum              | Medium    | 2018-11-05 | TODO     |  
-14| 513  |   Find Bottom Left Tree Value            | Medium    | 2018-11-05 | TODO     |                 
+13| 930  |   Binary Subarrays With Sum              | Medium    | 2018-11-12 | TODO     |  
+14| 513  |   Find Bottom Left Tree Value            | Medium    | 2018-11-12 | TODO     | 
+15| 918  |   Maximum Sum Circular Subarray          | Medium    | 2018-11-12 | TODO     |               
 
