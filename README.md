@@ -69,7 +69,7 @@ count | number | title  | difficult   | finish-time   | comment
 count | number | title  | difficult   | finish-time   | comment                         
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
 1 | 918 |   Maximum Sum Circular Subarray               |  Medium  | 2018-10-30     |
-
+2 | 907 |   Sum of Subarray Minimums                    |  Medium  | 2018-10-31     |
 
 # REVIEW LIST
 
@@ -89,5 +89,8 @@ count | number | title  | difficult  |  deadline | status  | finish-time     | c
 12|  926 |   Flip String to Monotone Increasing     | Medium    | 2018-10-28 | TODO     |
 13| 930  |   Binary Subarrays With Sum              | Medium    | 2018-11-12 | TODO     |  
 14| 513  |   Find Bottom Left Tree Value            | Medium    | 2018-11-12 | TODO     | 
-15| 918  |   Maximum Sum Circular Subarray          | Medium    | 2018-11-12 | TODO     |               
+15| 918  |   Maximum Sum Circular Subarray          | Medium    | 2018-11-12 | TODO     | 
+16| 907  |   Sum of Subarray Minimums               | Medium    | 2018-10-31 | TODO     |
+
+              
 
