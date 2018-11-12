@@ -75,6 +75,9 @@ count | number | title  | difficult   | finish-time   | comment
 5 | 875 |   Koko Eating Bananas                         |  Medium  | 2018-11-12     |
 
 ### 2018.11.05 - 2018.11.11
+:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
+1 | 94 |   Binary Tree Inorder Traversal               |  Medium  | 2018-11-12      |
+
 
 ### 2018.11.12 - 2018.11.18
 
