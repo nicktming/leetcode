@@ -71,6 +71,12 @@ count | number | title  | difficult   | finish-time   | comment
 1 | 918 |   Maximum Sum Circular Subarray               |  Medium  | 2018-10-30     |
 2 | 907 |   Sum of Subarray Minimums                    |  Medium  | 2018-10-31     |
 3 | 873 |   Length of Longest Fibonacci Subsequence     |  Medium  | 2018-10-31     |
+4 | 938 |   Range Sum of BST                            |  Medium  | 2018-11-11     |
+5 | 875 |   Koko Eating Bananas                         |  Medium  | 2018-11-12     |
+
+### 2018.11.05 - 2018.11.11
+
+### 2018.11.12 - 2018.11.18
 
 
 # REVIEW LIST
