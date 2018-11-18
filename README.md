@@ -83,6 +83,7 @@ count | number | title  | difficult   | finish-time   | comment
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
 1 | 941 |   Valid Mountain Array               |  Easy  | 2018-11-18      |
 2 | 944 |   Delete Columns to Make Sorted      |  Medium| 2018-11-18      |
+3 | 942 |   DI String Match                    |  Medium| 2018-11-18      |
 
 
 
