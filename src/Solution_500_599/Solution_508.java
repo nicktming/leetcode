@@ -29,7 +29,7 @@ public class Solution_508 {
     }
 
     public int dfs(TreeNode root) {
-        if (root == null) 0;
+        if (root == null) return 0;
         int l = dfs(root.left);
         int r = dfs(root.right);
         int sum = l + r + root.val;
