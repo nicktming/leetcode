@@ -75,12 +75,14 @@ count | number | title  | difficult   | finish-time   | comment
 5 | 875 |   Koko Eating Bananas                         |  Medium  | 2018-11-12     |
 
 ### 2018.11.05 - 2018.11.11
-:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
+count | number | title  | difficult   | finish-time   | comment                         
+:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                                       
 1 | 94 |   Binary Tree Inorder Traversal               |  Medium  | 2018-11-12      |
 2 | 508|   Most Frequent Subtree Sum                   |  Medium  | 2018-11-18      |
 
 ### 2018.11.12 - 2018.11.18
-:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                        
+count | number | title  | difficult   | finish-time   | comment                         
+:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                                               
 1 | 941 |   Valid Mountain Array               |  Easy  | 2018-11-18      |
 2 | 944 |   Delete Columns to Make Sorted      |  Medium| 2018-11-18      |
 3 | 942 |   DI String Match                    |  Medium| 2018-11-18      |
