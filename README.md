@@ -87,6 +87,10 @@ count | number | title  | difficult   | finish-time   | comment
 2 | 944 |   Delete Columns to Make Sorted      |  Medium| 2018-11-18      |
 3 | 942 |   DI String Match                    |  Medium| 2018-11-18      |
 
+### 2018.11.19 - 2018.11.25
+count | number | title  | difficult   | finish-time   | comment                         
+:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                                               
+1 | 885 |   Spiral Matrix III                  |  Medium  | 2018-11-21      |
 
 
 # REVIEW LIST
@@ -111,6 +115,7 @@ count | number | title  | difficult  |  deadline | status  | finish-time     | c
 16| 907  |   Sum of Subarray Minimums               | Medium    | 2018-11-12 | TODO     |
 17| 873  |   Length of Longest Fibonacci Subsequence| Medium    | 2018-11-12 | TODO     |
 18| 865  |  Smallest Subtree with all the Deepest Nodes| Medium | 2018-1124  | TODO     |
+19| 885  |   Spiral Matrix III                      |  Medium  | 2018-11-21      |
 
               
 
