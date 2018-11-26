@@ -1,7 +1,5 @@
 package Solution_900_999;
 
-import java.util.*;
-
 public class Solution_947 {
     public static void main(String[] args) {
         Solution_947 test = new Solution_947();
@@ -11,43 +9,42 @@ public class Solution_947 {
         System.out.println(test.removeStones(stones));
     }
 
-    Map<Integer, Set<Integer>> map = new HashMap<Integer, Set<Integer>>();
+
     public int removeStones(int[][] stones) {
         int lenth = stones.length;
+        UnionFind uf = new UnionFind(lenth);
         for (int i = 0; i < lenth; i++) {
-            map.put(i, new HashSet<>());
-            for (int j = 0; j < lenth; j++) {
-                if (i != j) {
-                    if (stones[i][0] == stones[j][0] || stones[i][1] == stones[j][1]) {
-                        map.get(i).add(j);
-                    }
-                }
-            }
-        }
-        int ans = 0;
-        int index = getMin();
 
-        while (index != -1) {
-            for (int k : map.get(index)) {
-                map.get(k).remove(index);
-            }
-            ans++;
-            map.remove(index);
-            index = getMin();
         }
-        return ans;
+        return 0;
     }
 
-    public int getMin() {
-        int min = Integer.MAX_VALUE;
-        int index = -1;
-        for (int key : map.keySet()) {
-            int cnt = map.get(key).size();
-            if (cnt > 0 && cnt < min) {
-                min = cnt;
-                index = key;
+
+    class UnionFind {
+        int[] uf;
+        public UnionFind(int lenth) {
+            uf = new int[lenth];
+            for (int i = 0; i < lenth; i++) {
+                uf[i] = i;
             }
         }
-        return index;
+        public int father(int k) {
+            int fa = k;
+            while (uf[fa] != fa) {
+                fa = uf[fa];
+            }
+            while (uf[k] != fa) {
+                k = uf[k];
+                uf[k] = fa;
+            }
+            return fa;
+        }
+        public void union(int c1, int c2) {
+            int fa1 = father(c1);
+            int fa2 = father(c2);
+            if (fa1 != fa2) {
+                uf[fa1] = fa2;
+            }
+        }
     }
 }
