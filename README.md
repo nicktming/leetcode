@@ -93,7 +93,9 @@ count | number | title  | difficult   | finish-time   | comment
 1 | 885 |   Spiral Matrix III                  |  Medium  | 2018-11-21      |
 2 | 889 |   Construct Binary Tree from Preorder and Postorder Traversal                  |  Medium  | 2018-11-22      |
 3 | 945 |   Minimum Increment to Make Array Unique |  Medium  | 2018-11-25      |
-6 | 946 |   Validate Stack Sequences |  Medium  | 2018-11-25      |
+4 | 946 |   Validate Stack Sequences |  Medium  | 2018-11-25      |
+5 | 934 |   Shortest Bridge |  Medium  | 2018-11-25      |
+
 
 # REVIEW LIST
 
