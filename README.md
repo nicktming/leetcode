@@ -96,6 +96,8 @@ count | number | title  | difficult   | finish-time   | comment
 4 | 946 |   Validate Stack Sequences |  Medium  | 2018-11-25      |
 5 | 934 |   Shortest Bridge |  Medium  | 2018-11-25      |
 
+### 2018.11.26 - 2018.12.02
+
 
 # REVIEW LIST
 
