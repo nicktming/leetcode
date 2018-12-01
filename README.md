@@ -101,6 +101,7 @@ count | number | title  | difficult   | finish-time   | comment
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                                               
 1 | 655 |   Print Binary Tree                  |  Medium  | 2018-12-01      |
 2 | 144 |   Binary Tree Preorder Traversal     |  Medium  | 2018-12-01      |
+3 | 230 |   Kth Smallest Element in a BST      |  Medium  | 2018-12-01      |
 
 
 # REVIEW LIST
