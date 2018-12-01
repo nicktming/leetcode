@@ -100,6 +100,7 @@ count | number | title  | difficult   | finish-time   | comment
 count | number | title  | difficult   | finish-time   | comment                         
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                                               
 1 | 655 |   Print Binary Tree                  |  Medium  | 2018-12-01      |
+1 | 144 |   Binary Tree Preorder Traversal     |  Medium  | 2018-12-01      |
 
 
 # REVIEW LIST
