@@ -103,6 +103,7 @@ count | number | title  | difficult   | finish-time   | comment
 2 | 144 |   Binary Tree Preorder Traversal     |  Medium  | 2018-12-01      |
 3 | 230 |   Kth Smallest Element in a BST      |  Medium  | 2018-12-01      |
 4 | 684 |   Redundant Connection               |  Medium  | 2018-12-01      |
+5 | 685 |   Redundant Connection II            |  Medium  | 2018-12-01      |
 
 
 # REVIEW LIST
@@ -127,8 +128,10 @@ count | number | title  | difficult  |  deadline | status  | finish-time     | c
 16| 907  |   Sum of Subarray Minimums               | Medium    | 2018-11-12 | TODO     |
 17| 873  |   Length of Longest Fibonacci Subsequence| Medium    | 2018-11-12 | TODO     |
 18| 865  |  Smallest Subtree with all the Deepest Nodes| Medium | 2018-1124  | TODO     |
-19| 885  |   Spiral Matrix III                      |  Medium  | 2018-11-24      |
+19| 885  |   Spiral Matrix III                      |  Medium   | 2018-11-24      |
 20| 889  |   Construct Binary Tree from Preorder and Postorder Traversal  |  Medium  | 2018-11-24      |
+21| 685 |   Redundant Connection II                 |  Medium   | 2018-12-15      |
+
 
               
 
