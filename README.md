@@ -86,6 +86,10 @@ count | number | title  | difficult   | finish-time   | comment
 1 | 941 |   Valid Mountain Array               |  Easy  | 2018-11-18      |
 2 | 944 |   Delete Columns to Make Sorted      |  Medium| 2018-11-18      |
 3 | 942 |   DI String Match                    |  Medium| 2018-11-18      |
+4 | 951 |   Flip Equivalent Binary Trees       |  Medium| 2018-12-02      |
+5 | 949 |   Largest Time for Given Digits      |  Easy  | 2018-12-02      |
+6 | 950 |   Reveal Cards In Increasing Order   |  Medium| 2018-12-02      |
+
 
 ### 2018.11.19 - 2018.11.25
 count | number | title  | difficult   | finish-time   | comment                         
