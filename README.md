@@ -109,6 +109,12 @@ count | number | title  | difficult   | finish-time   | comment
 4 | 684 |   Redundant Connection               |  Medium  | 2018-12-01      |
 5 | 685 |   Redundant Connection II            |  Medium  | 2018-12-01      |
 
+### 2019.01.21 - 2018.12.27
+count | number | title  | difficult   | finish-time   | comment                         
+:-----:|:----:| ------ |:-----:   |:-----:   |:-----:                                               
+1 | 979 |   Distribute Coins in Binary Tree                  |  Medium  | 2019-01-23      |
+
+
 
 # REVIEW LIST
 
@@ -135,7 +141,7 @@ count | number | title  | difficult  |  deadline | status  | finish-time     | c
 19| 885  |   Spiral Matrix III                      |  Medium   | 2018-11-24      |
 20| 889  |   Construct Binary Tree from Preorder and Postorder Traversal  |  Medium  | 2018-11-24      |
 21| 685 |   Redundant Connection II                 |  Medium   | 2018-12-15      |
-
+22| 979 |   Distribute Coins in Binary Tree         |  Medium  | 2019-02-06      |
 
               
 
