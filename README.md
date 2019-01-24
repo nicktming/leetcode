@@ -113,7 +113,7 @@ count | number | title  | difficult   | finish-time   | comment
 count | number | title  | difficult   | finish-time   | comment                         
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                                               
 1 | 979 |   Distribute Coins in Binary Tree                  |  Medium  | 2019-01-23      |
-
+1 | 959 |   Pancake Sorting                                  |  Medium  | 2019-01-24      |
 
 
 # REVIEW LIST
