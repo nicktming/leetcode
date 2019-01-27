@@ -113,8 +113,8 @@ count | number | title  | difficult   | finish-time   | comment
 count | number | title  | difficult   | finish-time   | comment                         
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                                               
 1 | 979 |   Distribute Coins in Binary Tree                  |  Medium  | 2019-01-23      |
-1 | 969 |   Pancake Sorting                                  |  Medium  | 2019-01-24      |
-
+2 | 969 |   Pancake Sorting                                  |  Medium  | 2019-01-24      |
+3 | 959 |   Regions Cut By Slashes                           |  Medium  | 2019-01-25      |
 
 # REVIEW LIST
 
@@ -142,6 +142,6 @@ count | number | title  | difficult  |  deadline | status  | finish-time     | c
 20| 889  |   Construct Binary Tree from Preorder and Postorder Traversal  |  Medium  | 2018-11-24      |
 21| 685 |   Redundant Connection II                 |  Medium   | 2018-12-15      |
 22| 979 |   Distribute Coins in Binary Tree         |  Medium  | 2019-02-06      |
-
+23| 959 |   Regions Cut By Slashes       |  Medium  | 2019-02-06      |
               
 

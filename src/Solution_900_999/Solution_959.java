@@ -1,6 +1,6 @@
 package Solution_900_999;
 
-public class Soution_959 {
+public class Solution_959 {
 
 
     public static void main(String[] args) {
