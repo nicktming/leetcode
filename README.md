@@ -125,7 +125,8 @@ count | number | title  | difficult   | finish-time   | comment
 2 | 986 |   Interval List Intersections                        | Medium | 2019-02-03      |
 3 | 988 |   Smallest String Starting From Leaf                 | Medium | 2019-02-03      |
 4 | 863 |   All Nodes Distance K in Binary Tree                | Medium | 2019-02-03      |
-5 | 96  |    Unique Binary Search Trees                        | Medium | 2019-02-03      |
+5 | 96  |   Unique Binary Search Trees                         | Medium | 2019-02-03      |
+6 | 652 |   Find Duplicate Subtrees                            | Medium | 2019-02-03      |
 
 # REVIEW LIST
 
