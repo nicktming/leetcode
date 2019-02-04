@@ -121,10 +121,10 @@ count | number | title  | difficult   | finish-time   | comment
 ### 2019.01.28 - 2019.02.03
 count | number | title  | difficult   | finish-time   | comment                         
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                                               
-1 | 985 |   Sum of Even Numbers After Queries                  |  Easy  | 2019-02-03      |
-2 | 986 |   Interval List Intersections                  |  Medium  | 2019-02-03      |
-3 | 988 |   Smallest String Starting From Leaf                 | Medium | 2019-02-03  |
-
+1 | 985 |   Sum of Even Numbers After Queries                  | Easy   | 2019-02-03      |
+2 | 986 |   Interval List Intersections                        | Medium | 2019-02-03      |
+3 | 988 |   Smallest String Starting From Leaf                 | Medium | 2019-02-03      |
+4 | 863 |   All Nodes Distance K in Binary Tree                | Medium | 2019-02-03      |
 
 # REVIEW LIST
 
@@ -137,7 +137,7 @@ count | number | title  | difficult  |  deadline | status  | finish-time     | c
 5 |  901 |  Online Stock Span                       | Medium    | 2018-09-30 | **DONE** |   **2018-10-02**  |   replace useless storage by using stack style           
 6 |  807 |   Max Increase to Keep City Skyline      | Medium    | 2018-10-07 | TODO     |                   
 7 |  894 |  All Possible Full Binary Trees          | Medium    | 2018-10-07 | TODO     |
-8 |  863 | All Nodes Distance K in Binary Tree      | Medium    | 2018-10-07 | TODO     |
+8 |  863 | All Nodes Distance K in Binary Tree      | Medium    | 2018-10-07 | **DONE** |   **2019-02-03**  |
 9 |  915 | Partition Array into Disjoint Intervals  | Medium    | 2018-10-14 | TODO     |
 10|  923 | 3Sum With Multiplicity                   | Medium    | 2018-10-21 | TODO     |
 11|  869 |   Reordered Power of 2                   | Medium    | 2018-10-24 | TODO     |
