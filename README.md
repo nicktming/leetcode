@@ -122,8 +122,8 @@ count | number | title  | difficult   | finish-time   | comment
 count | number | title  | difficult   | finish-time   | comment                         
 :-----:|:----:| ------ |:-----:   |:-----:   |:-----:                                               
 1 | 985 |   Sum of Even Numbers After Queries                  |  Easy  | 2019-02-03      |
-1 | 986 |   Interval List Intersections                  |  Medium  | 2019-02-03      |
-
+2 | 986 |   Interval List Intersections                  |  Medium  | 2019-02-03      |
+3 | 988 |   Smallest String Starting From Leaf                 | Medium | 2019-02-03  |
 
 
 # REVIEW LIST
