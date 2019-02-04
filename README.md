@@ -152,8 +152,8 @@ count | number | title  | difficult  |  deadline | status  | finish-time     | c
 18| 865  |  Smallest Subtree with all the Deepest Nodes| Medium | 2018-1124  | TODO     |
 19| 885  |   Spiral Matrix III                      |  Medium   | 2018-11-24      |
 20| 889  |   Construct Binary Tree from Preorder and Postorder Traversal  |  Medium  | 2018-11-24      |
-21| 685 |   Redundant Connection II                 |  Medium   | 2018-12-15      |
-22| 979 |   Distribute Coins in Binary Tree         |  Medium  | 2019-02-06      |
-23| 959 |   Regions Cut By Slashes       |  Medium  | 2019-02-06      |
+21| 685  |   Redundant Connection II                 |  Medium   | 2018-12-15      |
+22| 979  |   Distribute Coins in Binary Tree         |  Medium  | 2019-02-06      |
+23| 959  |   Regions Cut By Slashes       |  Medium  | 2019-02-06      |
               
 
